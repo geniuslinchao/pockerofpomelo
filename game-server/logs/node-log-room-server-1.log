@@ -1,0 +1,48 @@
+[2013-04-18 10:50:13.320] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-18 10:50:14.499] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:50:14.532] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-18 10:50:14.659] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-18 10:50:14.661] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-18 10:51:44.281] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "room.roomHandler.test"
+[2013-04-18 10:51:44.288] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for room.roomHandler.test
+    at Service.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:229:25)
+    at next (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Filter.before (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at next (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:58:15)
+    at Service.beforeFilter (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:242:3)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-04-18 10:53:35.565] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-18 10:53:36.847] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:53:36.855] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-18 10:53:36.929] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-18 10:54:44.977] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-18 10:54:48.255] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:55:35.554] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-18 10:55:35.807] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-18 10:55:35.808] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-18 10:56:12.836] [INFO] console - hello room!
+[2013-04-18 10:56:12.837] [INFO] console - go to here
+[2013-04-18 10:56:15.837] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "room.roomHandler.test" timeout.
+[2013-04-18 10:56:44.474] [INFO] console - hello room!
+[2013-04-18 10:56:44.474] [INFO] console - go to here
+[2013-04-18 10:56:47.475] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "room.roomHandler.test" timeout.
+[2013-04-18 10:58:22.787] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-18 10:58:23.765] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:58:23.823] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-18 10:58:23.978] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-18 10:58:23.980] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-18 10:59:09.381] [INFO] console - hello room!

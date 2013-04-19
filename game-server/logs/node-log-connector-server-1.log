@@ -1,0 +1,442 @@
+[2013-04-15 11:28:15.439] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 11:28:16.418] [INFO] console - info: 'socket.io started'
+[2013-04-15 11:28:16.484] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 11:28:16.664] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 11:28:16.667] [INFO] console - info: 'socket.io started'
+[2013-04-15 11:28:16.668] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 11:32:19.539] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 11:32:20.231] [INFO] console - info: 'socket.io started'
+[2013-04-15 11:32:20.288] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 11:32:20.387] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 11:32:20.391] [INFO] console - info: 'socket.io started'
+[2013-04-15 11:32:20.393] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 18:15:57.856] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 18:15:59.027] [INFO] console - info: 'socket.io started'
+[2013-04-15 18:15:59.080] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 18:15:59.202] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 18:15:59.205] [INFO] console - info: 'socket.io started'
+[2013-04-15 18:15:59.205] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 18:19:03.876] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 18:19:04.836] [INFO] console - info: 'socket.io started'
+[2013-04-15 18:19:04.927] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 18:19:05.017] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 18:19:05.020] [INFO] console - info: 'socket.io started'
+[2013-04-15 18:19:05.020] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 19:10:21.272] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 19:10:22.504] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:10:22.592] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 19:10:22.769] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 19:10:22.774] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:10:22.775] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 19:19:49.501] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 19:19:50.606] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:19:50.706] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 19:19:50.819] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 19:19:50.822] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:19:50.823] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-15 19:48:06.480] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-15 19:48:07.390] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:48:07.451] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-15 19:48:07.590] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-15 19:48:07.605] [INFO] console - info: 'socket.io started'
+[2013-04-15 19:48:07.613] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-16 10:18:44.787] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-16 10:18:45.779] [INFO] console - info: 'socket.io started'
+[2013-04-16 10:18:45.824] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-16 10:18:45.927] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-16 10:18:45.931] [INFO] console - info: 'socket.io started'
+[2013-04-16 10:18:45.932] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-16 10:19:28.325] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-04-16 10:22:59.151] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:23:03.412] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:25:56.040] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:25:58.103] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:25:58.495] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:25:58.719] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:25:58.936] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:16.938] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:19.005] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:19.352] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:19.568] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:19.773] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:19.960] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:20.249] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:20.449] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:20.633] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:22.120] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:26:46.765] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-16 10:26:47.869] [INFO] console - info: 'socket.io started'
+[2013-04-16 10:26:47.923] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-16 10:26:48.100] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-16 10:28:09.205] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-16 10:28:10.055] [INFO] console - info: 'socket.io started'
+[2013-04-16 10:28:10.093] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-16 10:28:10.187] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-16 10:28:10.189] [INFO] console - info: 'socket.io started'
+[2013-04-16 10:28:10.190] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-16 10:34:13.651] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:14.848] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:33.379] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:34.533] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:34.912] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:35.136] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:35.330] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:35.536] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:35.728] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:35.944] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:36.208] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:36.417] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-16 10:34:36.628] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: can not find chat servers.
+    at exp.chat (/Users/Genius/chatofpomelo/game-server/app/util/routeUtil.js:8:6)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/proxy.js:198:7
+    at proxyCB (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:246:9)
+    at Object.forwardMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:60:15)
+    at doForward (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:50)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+[2013-04-18 10:50:13.238] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-18 10:50:14.536] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:50:14.627] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-18 10:50:14.757] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-18 10:50:14.764] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:50:14.765] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-18 10:51:44.309] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to process remote message:Error: fail to find handler for room.roomHandler.test
+    at Service.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:229:25)
+    at next (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:50:7)
+    at Filter.before (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at next (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:58:15)
+    at Service.beforeFilter (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/common/service/filterService.js:65:3)
+    at beforeFilter (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:242:3)
+    at pro.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-04-18 10:53:35.571] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-18 10:53:36.976] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:53:36.986] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/chatofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/chatofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-18 10:53:37.037] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-18 10:54:44.160] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-18 10:54:45.509] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:54:45.572] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-18 10:54:45.735] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-18 10:54:45.745] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:54:45.746] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-18 10:58:22.733] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-18 10:58:23.802] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:58:23.872] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-18 10:58:24.003] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-18 10:58:24.007] [INFO] console - info: 'socket.io started'
+[2013-04-18 10:58:24.008] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
