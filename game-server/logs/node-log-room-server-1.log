@@ -46,3 +46,116 @@
 [2013-04-18 10:58:23.978] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
 [2013-04-18 10:58:23.980] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
 [2013-04-18 10:59:09.381] [INFO] console - hello room!
+[2013-04-24 16:58:45.231] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 16:58:47.150] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:58:47.207] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:17)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 16:59:25.452] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 16:59:26.763] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:59:26.774] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 17:00:10.570] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:00:11.820] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:00:11.887] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:00:12.018] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:00:12.019] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:02:39.751] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:02:41.265] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:02:41.322] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:02:41.661] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:02:41.662] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:27:50.762] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:27:52.201] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:27:52.239] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:27:52.386] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:27:52.388] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:28:28.695] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:28:29.661] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:29.681] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:29.732] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:28:42.075] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:28:43.035] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:43.052] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:43.077] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:29:20.774] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:29:21.743] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:21.779] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:29:21.908] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:29:21.909] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:29:41.825] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:29:42.642] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:42.682] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:29:42.797] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:29:42.798] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:31:01.456] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:31:02.252] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:31:02.294] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:31:02.400] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:31:02.403] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:36:11.831] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:36:12.625] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:36:12.663] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:36:12.773] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:36:12.777] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 17:54:36.191] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 17:54:37.160] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:54:37.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 17:54:37.501] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 17:54:37.504] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start
+[2013-04-24 19:03:08.731] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 19:03:09.783] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:09.844] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 19:03:09.906] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 19:03:27.398] [INFO] /node_modules/pomelo/lib/application.js - application inited: "room-server-1"
+[2013-04-24 19:03:28.239] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:28.271] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "room", "127.0.0.1", 3005
+[2013-04-24 19:03:28.397] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" enter after start...
+[2013-04-24 19:03:28.398] [INFO] /node_modules/pomelo/lib/application.js - "room-server-1" finish start

@@ -440,3 +440,191 @@
 [2013-04-18 10:58:24.003] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
 [2013-04-18 10:58:24.007] [INFO] console - info: 'socket.io started'
 [2013-04-18 10:58:24.008] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 16:58:45.350] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 16:58:47.196] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:58:47.253] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:17)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 16:59:25.439] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 16:59:26.794] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:59:26.838] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 17:00:10.499] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:00:11.901] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:00:11.963] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:00:12.178] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:00:12.181] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:00:12.182] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:02:39.972] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:02:44.753] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:04:44.207] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:04:44.481] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:04:44.484] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:04:44.485] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:28:28.656] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:28:29.699] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:29.709] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:29.763] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:28:29.954] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:28:29.958] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:29.959] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:28:42.033] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:28:43.074] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:43.115] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:43.188] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:28:43.270] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:28:43.273] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:43.275] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:29:20.874] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:29:21.755] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:21.766] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:29:21.828] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:29:21.943] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:29:21.948] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:21.955] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:29:41.775] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:29:42.641] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:42.653] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:29:42.704] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:29:42.826] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:29:42.830] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:42.831] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:31:01.388] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:31:02.302] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:31:02.312] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:31:02.392] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:31:02.489] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:31:02.494] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:31:02.495] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:36:11.819] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:36:12.691] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:36:12.701] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:36:12.748] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:36:12.845] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:36:12.850] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:36:12.851] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:54:36.205] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 17:54:37.147] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:54:37.258] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 17:54:37.462] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 17:54:37.477] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:54:37.483] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start
+[2013-04-24 17:55:20.678] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:39)
+    at pro.handle (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/connectors/siosocket.js:34:10)
+    at Socket.EventEmitter.emit [as $emit] (events.js:95:17)
+    at SocketNamespace.handlePacket (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:353:20)
+    at Manager.onClientMessage (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:488:38)
+[2013-04-24 17:57:01.427] [ERROR] /node_modules/pomelo/lib/server/server.js - fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/server/server.js:187:39)
+    at pro.handle (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/server/server.js:69:5)
+    at Component.handle (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:152:20)
+    at null.<anonymous> (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/connector.js:107:5)
+    at EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/connectors/siosocket.js:34:10)
+    at Socket.EventEmitter.emit [as $emit] (events.js:95:17)
+    at SocketNamespace.handlePacket (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:353:20)
+    at Manager.onClientMessage (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:488:38)
+[2013-04-24 19:03:08.757] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 19:03:09.812] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:09.831] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 19:03:09.904] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 19:03:27.362] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-04-24 19:03:28.155] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:28.302] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-04-24 19:03:28.443] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" enter after start...
+[2013-04-24 19:03:28.449] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:28.450] [INFO] /node_modules/pomelo/lib/application.js - "connector-server-1" finish start

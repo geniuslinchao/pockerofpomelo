@@ -5,7 +5,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-var roomarray = array();
+var room = require('../../../domain/room/room');
 
 module.exports = function(app) {
     return new Handler(app);
@@ -39,12 +39,19 @@ handler.createroom = function(roomname, session, next) {
 
 handler.enterrrom = function (roomname, session, next) {
     var channelService = this.app.get('channelService');
+
+
 };
 
 handler.leaveroom = function (roomname, session, next) {
     var channelService = this.app.get('channelService');
+
+
+
 };
 
 handler.listrooms = function(session, next) {
     var channelService = this.app.get('channelService');
+
+
 };

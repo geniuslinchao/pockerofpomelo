@@ -1,7 +1,7 @@
 var pomelo = window.pomelo;
 var username;
 var users;
-var rid;
+var rid = null;
 var base = 1000;
 var increase = 25;
 var reg = /^[a-zA-Z0-9_\u4e00-\u9fa5]+$/;
@@ -158,7 +158,7 @@ function showChat() {
 
 // query connector
 function queryEntry(uid, callback) {
-	var route = 'gate.gateHandler.queryEntry';
+	var route = 'connector.handler.queryEntry';
 	pomelo.init({
 		host: window.location.hostname,
 		port: 3014,
@@ -212,7 +212,7 @@ $(document).ready(function() {
 	//deal with login button click.
 	$("#login").click(function() {
 		username = $("#loginUser").attr("value");
-		rid = $('#channelList').val();
+		rid = new String($('#channelList').val());
 
 		if(username.length > 20 || username.length == 0 || rid.length > 20 || rid.length == 0) {
 			showError(LENGTH_ERROR);

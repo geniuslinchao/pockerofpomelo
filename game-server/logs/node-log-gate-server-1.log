@@ -62,3 +62,37 @@
 [2013-04-18 10:58:24.004] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" enter after start...
 [2013-04-18 10:58:24.016] [INFO] console - info: 'socket.io started'
 [2013-04-18 10:58:24.018] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" finish start
+[2013-04-24 16:58:45.360] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-04-24 16:58:47.263] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:17)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 16:59:25.427] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-04-24 16:59:26.813] [ERROR] console -  Caught exception: ReferenceError: array is not defined
+    at Object.<anonymous> (/Users/Genius/pockerofpomelo/game-server/app/servers/room/handler/roomHandler.js:8:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at loadFile (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+[2013-04-24 17:00:10.581] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-04-24 17:00:11.897] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-04-24 17:00:12.140] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" enter after start...
+[2013-04-24 17:00:12.146] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:00:12.149] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" finish start
+[2013-04-24 17:02:39.793] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-04-24 17:02:41.372] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-04-24 17:02:41.769] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" enter after start...
+[2013-04-24 17:02:41.786] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:02:41.789] [INFO] /node_modules/pomelo/lib/application.js - "gate-server-1" finish start

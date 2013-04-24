@@ -10,10 +10,11 @@ var pomelo = window.pomelo;
 
 // query connector
 function queryEntry(uid, callback) {
-    var route = 'gate.gateHandler.queryEntry';
+    var route = 'connector.connectorHandler.queryEntry';
+
     pomelo.init({
-        host: window.location.hostname,
-        port: 3014,
+        host: '127.0.0.1',
+        port: 3050,
         log: true
     }, function() {
         pomelo.request(route, {
@@ -63,35 +64,31 @@ function pockerlogin(username, password){
     showtoolbar();
     showgameview();
 
-
     //query entry of connection
-    queryEntry(username, function(host, port) {
+    //queryEntry(username, function(host, port) {
         pomelo.init({
-            host: host,
-            port: port,
+            host: '127.0.0.1',
+            port: 3050,
             log: true
         }, function() {
             var route = "connector.entryHandler.enter";
             pomelo.request(route, {
                 username: username,
-                rid: rid
+                rid: username
             }, function(data) {
                 if(data.error) {
+                    alert("connect connector error");
                     showError(DUPLICATE_ERROR);
                     return;
                 }
-                setName();
-                setRoom();
-                showChat();
-                initUserList(data);
+                console.log('query connector success!');
             });
         });
-    });
+    //});
 };
 
 function pockerlogout() {
     console.log("user logout");
-
     $("#login-user").text("未登录");
 
     hidetoolbar();

@@ -88,3 +88,100 @@
 [2013-04-18 10:58:23.752] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
 [2013-04-18 10:58:23.872] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
 [2013-04-18 10:58:23.875] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 16:58:45.387] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 16:58:47.134] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:58:47.245] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 16:58:47.311] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 16:58:47.313] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 16:59:25.528] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 16:59:26.729] [INFO] console - info: 'socket.io started'
+[2013-04-24 16:59:26.752] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 16:59:26.854] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 16:59:26.856] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:00:10.579] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:00:11.852] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:00:11.909] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:00:12.058] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:00:12.060] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:02:39.780] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:02:41.297] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:02:41.358] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:02:41.695] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:02:41.701] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:27:50.727] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:27:52.174] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:27:52.197] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:27:52.350] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:27:52.355] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:28:28.729] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:28:29.656] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:29.672] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:29.717] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:28:42.087] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:28:43.048] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:28:43.067] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 17:28:43.092] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:29:20.905] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:29:21.799] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:21.838] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:29:21.950] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:29:21.951] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:29:41.795] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:29:42.664] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:29:42.693] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:29:42.788] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:29:42.802] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:31:01.425] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:31:02.290] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:31:02.329] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:31:02.435] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:31:02.437] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:36:11.805] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:36:12.632] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:36:12.679] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:36:12.798] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:36:12.799] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 17:54:36.185] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 17:54:37.178] [INFO] console - info: 'socket.io started'
+[2013-04-24 17:54:37.301] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 17:54:37.498] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 17:54:37.500] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
+[2013-04-24 19:03:08.763] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 19:03:09.765] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:09.788] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:878:11)
+    at Server._listen2 (net.js:1016:14)
+    at listen (net.js:1038:10)
+    at Server.listen (net.js:1104:5)
+    at Object.exports.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:21)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:17)
+    at pro.start (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at /Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/lib/util/appUtil.js:82:19
+    at iterate (/Users/Genius/pockerofpomelo/game-server/node_modules/pomelo/node_modules/async/lib/async.js:123:13)
+[2013-04-24 19:03:09.817] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 19:03:27.350] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-04-24 19:03:28.169] [INFO] console - info: 'socket.io started'
+[2013-04-24 19:03:28.213] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-04-24 19:03:28.366] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" enter after start...
+[2013-04-24 19:03:28.369] [INFO] /node_modules/pomelo/lib/application.js - "chat-server-1" finish start
